@@ -1,0 +1,18 @@
+.img-home{
+    width:100%;
+    display: flex;
+    box-sizing: border-box;
+    border:1px solid grey;
+    border-radius:5px;
+    height:370px
+}
+
+.sub-head{
+    background: rgb(218, 216, 216);
+    padding:10px;
+    color:rgb(68, 65, 65);
+    border-radius: 3px;
+}
+.products{
+    float:left;
+}

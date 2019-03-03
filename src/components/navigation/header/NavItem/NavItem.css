@@ -1,0 +1,38 @@
+.nav1{
+    display:flex;
+    font-size: 16px;
+    position:absolute;
+    top:73px;
+    left:10px;
+    border-radius:5px;
+}
+
+/* .navItem{
+    display:flex;
+    box-sizing: border-box;
+    padding:5px;
+    margin-right:5px;
+    background: red;
+    width:50%
+}
+
+.navItem li{
+    display:flex;
+    list-style-type: none;
+    box-sizing: border-box;
+    padding:5px;
+    margin-right:5px; 
+} */
+
+.contact{
+    position: relative;
+    top:83px;
+    left:650px;
+    font-size: 16px;
+    color:rgb(77, 73, 73);
+}
+.active1{
+    border-bottom: 4px solid rgb(119, 3, 3);
+    color:white;
+    font-weight: bold;
+}

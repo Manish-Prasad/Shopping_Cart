@@ -1,0 +1,22 @@
+.boxed{
+    width:460px;
+    height:200px;
+    border:1px solid grey;
+    border-radius:3px;
+    padding:10px;
+    margin:15px;
+    overflow: auto
+}
+
+.boxed-img{
+    width:150px;
+    height:130px;
+    border:1px solid gray;
+    border-radius:3px;
+    float:left;
+    margin:10px;
+}
+.prod-desc{
+    overflow: auto;
+    text-align: justify;
+}

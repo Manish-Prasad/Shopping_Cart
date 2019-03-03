@@ -1,0 +1,23 @@
+.about-img{
+    width:100%;
+    display: flex;
+    box-sizing: border-box;
+    border:1px solid grey;
+    border-radius:5px;
+    height:300px
+}
+
+.text-img{
+    width:300px;
+    height:250px;
+    border:1px solid gray;
+    border-radius:3px;
+    float:right;
+    margin: 5px;
+    margin-left:15px;
+    margin-right: 10px;
+}
+.about-text{
+    overflow: auto;
+    text-align: justify;
+}
